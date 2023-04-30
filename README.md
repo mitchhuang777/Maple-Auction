@@ -1,4 +1,4 @@
-# 全自動萌獸搜尋小幫手
+# 😺 全自動萌獸搜尋小幫手
 
 首先先到下載的地方，選擇auto-maple-auction--v0.01.zip
 
@@ -32,5 +32,5 @@
 
 **小幫手目前很脆弱，如果在執行的過程中有移動的話程式會壞掉**
 
-# Donation
-[Buy me a coffee](https://www.buymeacoffee.com/huangmitch)
+# ☕ Donation
+[Buy me a coffee](https://www.buymeacoffee.com/huangmitch) ☕
